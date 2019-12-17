@@ -16,10 +16,10 @@ Monorepo da aplicação GymPoint
 ## executando o frontend
 
 - É necessário ter o backend rodando antes de iniciar o frontend
-- No diretório raiz do frontend, execute `yarn` para resolver os node packages e então `yarn start` para inicializaar a aplicação em[gympoint-localhost](http://localhost:3000/)
+- No diretório raiz do frontend, execute `yarn` para resolver os node packages e então `yarn start` para inicializar a aplicação em [gympoint-localhost](http://localhost:3000/)
 
 
 ## executando o mobile
 
 - É necessário ter o backend rodando antes de iniciar o mobile
-- No diretório raiz do mobile, execute `yarn` para resolver os node packages e então `yarn react-native run-ios` para iniciar a aplicação no IOS ou `yarn react-native run-android ` para iniciaar a aplicação no Android. Favor dar preferência a testes no IOS.
+- No diretório raiz do mobile, execute `yarn` para resolver os node packages e então `yarn react-native run-ios` para iniciar a aplicação no IOS ou `yarn react-native run-android ` para iniciar a aplicação no Android. Favor dar preferência a testes no IOS.
