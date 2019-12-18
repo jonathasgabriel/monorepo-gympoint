@@ -22,4 +22,4 @@ Monorepo da aplicação GymPoint
 ## executando o mobile
 
 - É necessário ter o backend rodando antes de iniciar o mobile
-- No diretório raiz do mobile, execute `yarn` para resolver os node packages e então `yarn react-native run-ios` para iniciar a aplicação no IOS ou `yarn react-native run-android ` para iniciar a aplicação no Android. Favor dar preferência a testes no IOS.
+- No diretório raiz do mobile, execute `yarn` para resolver os node packages e então `yarn react-native run-ios` para iniciar a aplicação no IOS ou `yarn react-native run-android ` para iniciar a aplicação no Android. Favor realizar os testes no IOS (foi testado no Android também, porém a execução e fluidez é mais simples no IOS, pois por exemplo no Android existe a necessidade de redirecionamento de portas e afins, o que depende de cada ambiente).
